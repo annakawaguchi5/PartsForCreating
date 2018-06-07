@@ -1,0 +1,9 @@
+D:\PGs\VB\ToDoFuKenPicker\bin\Debug\ToDoFuKenPicker.exe.config
+D:\PGs\VB\ToDoFuKenPicker\bin\Debug\ToDoFuKenPicker.exe
+D:\PGs\VB\ToDoFuKenPicker\bin\Debug\ToDoFuKenPicker.pdb
+D:\PGs\VB\ToDoFuKenPicker\bin\Debug\ToDoFuKenPicker.xml
+D:\PGs\VB\ToDoFuKenPicker\obj\Debug\ToDoFuKenPicker.Resources.resources
+D:\PGs\VB\ToDoFuKenPicker\obj\Debug\ToDoFuKenPicker.vbproj.GenerateResource.Cache
+D:\PGs\VB\ToDoFuKenPicker\obj\Debug\ToDoFuKenPicker.exe
+D:\PGs\VB\ToDoFuKenPicker\obj\Debug\ToDoFuKenPicker.xml
+D:\PGs\VB\ToDoFuKenPicker\obj\Debug\ToDoFuKenPicker.pdb
